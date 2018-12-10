@@ -341,7 +341,9 @@ textarea {
     font-size: 20px; }
 
 .ftco-pricing ul li {
-  margin-bottom: 10px; }
+  margin-bottom: 10px; 
+    list-style-type: square;
+    font-weight: 600;}
 
 .ftco-footer-social li {
   list-style: none;
