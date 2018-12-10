@@ -380,7 +380,7 @@ textarea {
 
 .ftco-media {
   background: #fff;
-  border-radius: 5px; }
+  border-radius: 5px;    max-height: 440px; }
   .ftco-media.text-center .ftco-icon {
     margin: 0 auto; }
 
