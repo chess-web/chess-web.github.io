@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5,
     width: 120%;
     height: 200px;
     left: -10%;
-    background: #f2f2f2;
+    background: #ffeb3b;
     -webkit-transform: rotate(-5deg);
     -ms-transform: rotate(-5deg);
     transform: rotate(-5deg);
@@ -283,7 +283,7 @@ textarea {
         font-size: 30px; } }
   .ftco-section.bg-light,
   .ftco-footer.bg-light {
-    background: #f2f2f2 !important; }
+   /* background: #f2f2f2 !important;*/ }
 
 .ftco-bg-dark {
   background: #263135; }
