@@ -7,7 +7,9 @@ body {
   font-size: 16px;
   background: #FFEB3B;
   color: #859196; }
-
+.mb-4 {
+    font-weight: 900;
+}
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
