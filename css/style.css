@@ -283,7 +283,7 @@ textarea {
         font-size: 30px; } }
   .ftco-section.bg-light,
   .ftco-footer.bg-light {
-   /* background: #f2f2f2 !important;*/ }
+   background: #FFEB3B !important; }
 
 .ftco-bg-dark {
   background: #263135; }
