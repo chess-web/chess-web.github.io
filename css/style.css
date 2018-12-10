@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5,
     color: #000;}
     .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
       border-color: #ce9d0c87;
-      background: #ce9d0c87; }
+      background: #ce9d0c87;    color: #fff; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.2);
     background: none; }
