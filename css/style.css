@@ -324,7 +324,7 @@ textarea {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    letter-spacing: .1em; }
+    letter-spacing: .1em; font-weight: 900;}
 
 .ftco-pricing h2 {
   font-size: 17px;
