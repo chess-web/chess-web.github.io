@@ -333,7 +333,7 @@ textarea {
 
 .ftco-pricing h2 {
   font-size: 17px;
-  text-transform: uppercase; }
+  text-transform: uppercase;font-weight: 900;}
 
 .ftco-pricing .ftco-price-per {
   font-size: 70px; }
