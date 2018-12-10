@@ -10,6 +10,9 @@ body {
 .mb-4 {
     font-weight: 900;
 }
+.mb-5 {
+    margin-bottom: 2rem!important;
+}
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
