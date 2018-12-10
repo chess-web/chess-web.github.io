@@ -13,6 +13,9 @@ body {
 .mb-5 {
     margin-bottom: 2rem!important;
 }
+div#map {
+    max-height: 380px;
+}
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
