@@ -118,7 +118,9 @@ h1, h2, h3, h4, h5,
       padding-bottom: 0.7rem !important;
       color: #000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #4586FF !important; }
+        color: #000000 !important;
+    background: #FFEB3B;
+    border-radius: 4px; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
