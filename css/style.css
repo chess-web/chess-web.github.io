@@ -231,6 +231,7 @@ h1, h2, h3, h4, h5,
   .btn.btn-primary {
     background-color: #e8e8e8ad;
     border-color: #ffffff3b;
+    border: none;
     color: #000;}
     .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
     /*border-color: #ce9d0c87;*/
