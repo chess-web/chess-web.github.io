@@ -159,13 +159,13 @@ h1, h2, h3, h4, h5,
       border: 1px solid red; } }
   .ftco-cover a {
     position: relative;
-    color: #fff; }
+    color: #ffeb3b; }
     .ftco-cover a:before {
       position: absolute;
       bottom: 0;
       left: 0;
       right: 0;
-      background: #4586FF;
+     /* background: #4586FF;*/
       height: 2px;
       content: " "; }
   .ftco-cover.overlay {
