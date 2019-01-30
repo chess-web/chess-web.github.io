@@ -17536,6 +17536,7 @@ Copyright (c) 2015 Daniel Eden
 
 .card-chart .card-header .card-category {
   margin-bottom: 5px;
+  font-weight: bolder;
 }
 
 .card-chart .card-body {
