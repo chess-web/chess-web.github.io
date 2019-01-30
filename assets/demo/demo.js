@@ -447,7 +447,7 @@ demo = {
           borderDash: [],
           borderDashOffset: 0.0,
           pointBackgroundColor: '#6ba334',
-          pointBorderColor: 'green',
+          pointBorderColor: 'rgba(255,255,255,0)',
           pointHoverBackgroundColor: '#4c8d02',
           pointBorderWidth: 20,
           pointHoverRadius: 4,
