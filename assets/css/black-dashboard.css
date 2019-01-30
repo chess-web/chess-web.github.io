@@ -10766,13 +10766,13 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #e14eca;
-  border-color: #e14eca;
+  background-color: #559501;
+  border-color: #559501;
 }
 
 .btn-primary.btn-simple {
   color: #e14eca;
-  border-color: #e14eca;
+  border-color: #559501;
   background: transparent;
 }
 
@@ -10781,14 +10781,14 @@ fieldset[disabled] .btn-primary.active {
 .btn-primary.btn-simple:active,
 .btn-primary.btn-simple:not(:disabled):not(.disabled):active {
   color: #e14eca;
-  border-color: #e14eca;
+  border-color: #559501;
   background-color: transparent !important;
   background-image: none !important;
   box-shadow: none;
 }
 
 .btn-primary.btn-simple.active {
-  border-color: #e14eca !important;
+  border-color: #559501 !important;
 }
 
 .btn-primary.btn-simple.active:hover,
@@ -10796,7 +10796,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-primary.btn-simple.active:active,
 .btn-primary.btn-simple.active:not(:disabled):not(.disabled):active {
   color: #ffffff;
-  border-color: #e14eca;
+  border-color: #559501;
   background-image: linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
   background-image: -webkit-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
   background-image: -o-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
