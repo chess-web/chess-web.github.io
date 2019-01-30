@@ -198,7 +198,7 @@ demo = {
           },
           ticks: {
             padding: 20,
-            fontColor: "#fff"
+            fontColor: "#000"
           }
         }]
       }
