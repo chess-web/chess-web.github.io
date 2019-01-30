@@ -439,7 +439,7 @@ demo = {
       data: {
         labels: chart_labels,
         datasets: [{
-          label: "My First dataset",
+          label: "При таких то условиях",
           fill: true,
           backgroundColor: gradientStroke,
           borderColor: '#418701',
@@ -472,8 +472,15 @@ demo = {
       data.labels = chart_labels;
       myChartData.update();
     });
-
     $("#2").click(function() {
+      var chart_data = [140, 120, 105, 100, 95, 105, 130, 125, 80, 135, 140, 120];
+      var data = myChartData.config.data;
+      data.datasets[0].data = chart_data;
+      data.labels = chart_labels;
+      myChartData.update();
+    });
+
+    $("#3").click(function() {
       var chart_data = [60, 80, 65, 130, 80, 105, 90, 130, 70, 115, 60, 130];
       var data = myChartData.config.data;
       data.datasets[0].data = chart_data;
