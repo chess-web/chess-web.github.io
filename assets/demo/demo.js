@@ -459,6 +459,7 @@ demo = {
     };
     var myChartData = new Chart(ctx, config);
     $("#0").click(function() {
+      var chart_data = [140, 120, 105, 100, 95, 105, 130, 125, 80, 135, 140, 120];
       var data = myChartData.config.data;
       data.datasets[0].data = chart_data;
       data.labels = chart_labels;
