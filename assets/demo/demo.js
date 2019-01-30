@@ -431,9 +431,9 @@ demo = {
 
     var gradientStroke = ctx.createLinearGradient(0, 230, 0, 50);
 
-    gradientStroke.addColorStop(1, 'rgba(72,72,176,0.1)');
-    gradientStroke.addColorStop(0.4, 'rgba(72,72,176,0.0)');
-    gradientStroke.addColorStop(0, 'rgba(119,52,169,0)'); //purple colors
+    gradientStroke.addColorStop(1, '#53900e');
+    gradientStroke.addColorStop(0.4, '#4c8d02');
+    gradientStroke.addColorStop(0, '#6ba334'); //purple colors
     var config = {
       type: 'line',
       data: {
@@ -442,7 +442,7 @@ demo = {
           label: "My First dataset",
           fill: true,
           backgroundColor: gradientStroke,
-          borderColor: '#d346b1',
+          borderColor: '#418701',
           borderWidth: 2,
           borderDash: [],
           borderDashOffset: 0.0,
