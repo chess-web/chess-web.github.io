@@ -424,8 +424,7 @@ demo = {
 
 
     var chart_labels = ['период 1', 'период 2', 'период 3', 'период 4', 'период 5', 'период 6', 'период 7', 'период 8', 'период 9', 'период 10', 'период 11', 'период 12'];
-    var chart_data = [100, 70, 90, 70, 85, 60, 75, 60, 90, 80, 110, 100];
-
+    var chart_data = [85, 120, 105, 110, 95, 105, 90, 100, 80, 95, 70, 120];
 
     var ctx = document.getElementById("chartBig1").getContext('2d');
 
@@ -466,7 +465,7 @@ demo = {
       myChartData.update();
     });
     $("#1").click(function() {
-      var chart_data = [80, 120, 105, 110, 95, 105, 90, 100, 80, 95, 70, 120];
+      var chart_data = [100, 70, 90, 70, 85, 60, 75, 60, 90, 80, 110, 100];
       var data = myChartData.config.data;
       data.datasets[0].data = chart_data;
       data.labels = chart_labels;
