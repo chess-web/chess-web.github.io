@@ -10801,7 +10801,7 @@ fieldset[disabled] .btn-primary.active {
   background-image: -webkit-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
   background-image: -o-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
   background-image: -moz-linear-gradient(to bottom left, #e14eca, #ba54f5, #e14eca) !important;
-  background-color: #ba54f5 !important;
+ /* background-color: #ba54f5 !important;*/
   box-shadow: none;
 }
 
