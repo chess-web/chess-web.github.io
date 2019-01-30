@@ -10536,7 +10536,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
   background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
   background-image: -o-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
   background-image: -moz-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-color: #263148 !important;
+  background-color: #4e8e06 !important;
   box-shadow: none;
 }
 
@@ -10780,11 +10780,11 @@ fieldset[disabled] .btn-primary.active {
 .btn-primary.btn-simple:focus,
 .btn-primary.btn-simple:active,
 .btn-primary.btn-simple:not(:disabled):not(.disabled):active {
-  color: #e14eca;
-  border-color: #559501;
-  background-color: transparent !important;
-  background-image: none !important;
-  box-shadow: none;
+    color: #ffffff;
+    border-color: #559501;
+    background-color: #4d8e04 !important;
+    background-image: none !important;
+    box-shadow: none;
 }
 
 .btn-primary.btn-simple.active {
